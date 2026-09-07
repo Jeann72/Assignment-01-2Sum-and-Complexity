@@ -53,3 +53,22 @@ Pear -> Box 2
 Pencil -> Box 3
 
 Cat -> Box 4
+
+# Resources:
+
++Brutforce Vs Hash 2 sum and complexity
+
+https://www.youtube.com/watch?v=GHgFLiZ-8xw
+
++Explains C++
+
+https://www.w3schools.com/cpp/default.asp
+
+https://www.geeksforgeeks.org/dsa/dsa-tutorial-learn-data-structures-and-algorithms/
+
++Theory of Time Complexity and Space Continuity 
+
+https://meheedihasaan.medium.com/solving-the-two-sum-problem-brute-force-and-hash-map-approaches-5bc3b77cb5ba
+
+
+
