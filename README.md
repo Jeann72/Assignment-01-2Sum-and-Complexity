@@ -24,6 +24,7 @@ target = 2
 It only has 2 variables wich are i and j.
 
 Example:
+
 i= 0,1,2,3,4
 
 j=1,2,3,4
@@ -36,6 +37,7 @@ It just searches the number your looking for, and tells you where it exactly is 
  It goes once through list since it knows what look for.
  
  Example: 
+ 
  I need 2 -> Do I have what i need? -> Yes then return, if not just store. 
 
 +Space Continuity:O(n)
@@ -43,6 +45,7 @@ It just searches the number your looking for, and tells you where it exactly is 
 Every single iteration gets a space made for them in the hash map.
 
 Example: 
+
 Apple -> Box 1
 
 Pear -> Box 2
