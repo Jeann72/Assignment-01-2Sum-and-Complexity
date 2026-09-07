@@ -1,8 +1,9 @@
 # Assignment-01-2Sum-and-Complexity
-+The problem gives us a vector, and a target int. We have to use the brute hash to see the pros and cons 
+The problem gives us a vector, and a target int. We have to use the brute hash to see the pros and cons 
 of how each find the answer.
+
 # Brut Force
-+It tries all possible solutions until the right one is found which means that it reads every singles pair of elements in the array
+It tries all possible solutions until the right one is found which means that it reads every singles pair of elements in the array
 , and checks if each pair is the sum of the target.
 
 #Time Complexity: O(n^2) 
@@ -24,7 +25,7 @@ i= 0,1,2,3,4
 j=1,2,3,4
 
 # Hash
-+It just searches the number your looking for, and tells you where it exactly is without going through every possible solution.
+It just searches the number your looking for, and tells you where it exactly is without going through every possible solution.
 
 +Time Complexity: O(n) 
 
