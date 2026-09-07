@@ -51,11 +51,10 @@ vector<int> twoSumHash(const vector<int> & nums, int target)
 
       //it searches where the needed int is in the vector
       //nums = {2, 7, 11, 15}, target = 9
-      //i= 0 , nums[i]= 2, needed =7, no, store{2,0}
       //i= 1, nums[i]= 7, needed = 2, Yes, return {0,1}
 	   if(index.count(needed))
 	   {
-       //i saw it here, then it returns both indices
+       		//i saw it here, then it returns both indices
 		   return {index[needed], i};
 	   }
      
