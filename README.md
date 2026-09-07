@@ -11,8 +11,11 @@ It tries all possible solutions until the right one is found which means that it
 Compares i and j each time until it gets the target sum, through nested loops(every single iteration i and j are compared).
 
 Example:
+
 ={2,3,12,25,54}
+
 target = 2
+
 (i= 0 num = 2) compares (j= 1 num= 3) = 2+3 = 6.
 
 
@@ -22,6 +25,7 @@ It only has 2 variables wich are i and j.
 
 Example:
 i= 0,1,2,3,4
+
 j=1,2,3,4
 
 # Hash
@@ -40,6 +44,9 @@ Every single iteration gets a space made for them in the hash map.
 
 Example: 
 Apple -> Box 1
+
 Pear -> Box 2
+
 Pencil -> Box 3
+
 Cat -> Box 4
